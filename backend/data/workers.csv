@@ -1,0 +1,51 @@
+worker_id,name,phone,city,categories,primary_language,literacy_level,certifications,rating,total_tasks,avg_task_time,last_active,preferred_contact_method
+0cb5152e-8f58-43c0-8b69-9b38647ff4ee,Seth Hills,+8801-380-824-5788,Khulna,plumber|cleaning,en,medium,,3.2,101,3550,2025-10-31T19:19:56.068Z,in-app
+73167e29-5166-45cd-a226-5df2c9a4189f,Yolanda Crooks,+880941-363-3621 x609,Dhaka,ac_repair|electrician,bn,medium,,3.5,425,4393,2025-10-11T19:19:56.068Z,in-app
+5bb36db2-6f8b-41d9-b261-cb7770522f47,Kristi Graham,+880(248) 201-6708 x652,Chattogram,beauty|cleaning|ac_repair,en,high,certC|certB,3.4,426,5883,2025-10-16T19:19:56.068Z,sms
+9259388f-37f2-4c2d-87f2-bbb1455a0b82,Johnnie McClure II,+880709-934-8470 x20485,Khulna,carpentry|plumber,bn,high,certB,4.9,282,2490,2025-10-18T19:19:56.068Z,sms
+83eb44e6-8146-4a4f-83c5-de272bd66345,Susie Goodwin,+880827.898.0479 x03444,Chattogram,beauty|carpentry|pest_control,bn,low,,4.9,1134,1904,2025-10-04T19:19:56.068Z,call
+e3469ffe-1ce5-43b1-bf27-ffcdfe9b98eb,Linda Langworth,+880(219) 903-0765 x65277,Rajshahi,ac_repair|plumber|pest_control,bn,low,,3.3,1938,2893,2025-11-01T19:19:56.068Z,call
+90d2c92c-7ad4-45f8-b846-843928b3b5ff,Theresa Koepp-Morar,+880663-274-6651,Khulna,pest_control,en,low,certC,4.4,674,4118,2025-10-26T19:19:56.068Z,call
+3defd361-20a8-4e7a-a6de-612b5cbbdca0,Virgil Mayer,+880(510) 468-8204,Chattogram,plumber|cleaning,bn,medium,certC,3.4,307,2839,2025-10-30T19:19:56.068Z,whatsapp
+16b408b6-471a-4bb5-8df4-4bb8e2700079,Jeremy Armstrong,+880(761) 947-1457 x6329,Chattogram,beauty,bn,low,certA|certC,5.0,1310,5330,2025-10-16T19:19:56.068Z,sms
+0ce1c84e-04e7-49b2-b3f3-84df29cd736c,Craig Welch,+880782.595.0129 x2801,Rajshahi,beauty|ac_repair|electrician,en,high,certB,3.2,65,3847,2025-10-30T19:19:56.068Z,sms
+c09d7f15-3f46-4def-b8a5-94b4e298402f,Hilda Kris,+8801-906-258-6497 x23700,Rajshahi,carpentry,bn,high,certA|none,3.8,1148,6672,2025-10-25T19:19:56.068Z,whatsapp
+37ab1ca6-9c4f-42eb-8a1e-4be3e9ae87a8,Alice Renner,+880593-840-0405 x471,Khulna,pest_control,bn,medium,certA|certB,4.8,717,5501,2025-10-24T19:19:56.068Z,in-app
+a2d604cd-948d-4568-8e93-11fdc7a29c04,Ms. Patricia Pollich,+880(621) 619-4878 x80729,Rajshahi,ac_repair,en,medium,none,4.9,1127,2895,2025-10-25T19:19:56.068Z,in-app
+2a8c1638-775b-4738-a903-33344e554f89,Vickie Koch,+880251-529-0668 x89223,Khulna,plumber|pest_control,en,high,certA|none,4.9,1044,5577,2025-10-27T19:19:56.068Z,sms
+5f7c9188-b5d9-40be-8a69-29805363dbb5,Olga Lind,+880(800) 459-0468,Khulna,ac_repair|beauty|cleaning,bn,medium,certB,4.2,1256,5647,2025-10-16T19:19:56.068Z,whatsapp
+941d1af1-3c1d-40e1-8ed8-c1258d8aaecf,Terri Gleichner PhD,+880(872) 796-8072,Dhaka,cleaning|pest_control,bn,high,,4.9,305,5677,2025-10-29T19:19:56.068Z,call
+577172cf-c600-47ad-a9f7-935a95150956,Dr. Laurence Kuhlman,+880917-584-3287 x0701,Khulna,cleaning|pest_control,bn,high,none,4.7,1940,979,2025-10-06T19:19:56.068Z,whatsapp
+86e69b09-8910-42d5-966b-416be0c150eb,Dr. Marcia Considine,+880309.964.5477 x8581,Dhaka,cleaning|plumber,bn,medium,,4.8,86,6600,2025-11-01T19:19:56.068Z,sms
+eeee889e-dca9-4e33-8f87-dd22cc3d77f8,Georgia Gislason-Keeling,+880722-937-8337 x637,Rajshahi,plumber,en,high,certA|none,4.8,1622,5527,2025-10-12T19:19:56.068Z,call
+dd1bd23c-5663-4fc4-b156-0eddcbafbac3,Maria Stehr III,+880(412) 467-2022 x22481,Rajshahi,ac_repair|carpentry,bn,high,,4.1,509,3470,2025-10-20T19:19:56.068Z,call
+7bf76fdf-6b3d-4e41-93a4-a5e77517cf1c,Francis Moore Sr.,+880968-284-8086,Khulna,carpentry,bn,high,certA|certB,4.8,1852,2235,2025-10-14T19:19:56.068Z,whatsapp
+d1f90eab-45ea-4059-8210-a550bcdac974,Megan Gerhold,+880701.380.5964 x364,Khulna,pest_control|cleaning,bn,medium,certC,4.6,590,5102,2025-10-29T19:19:56.068Z,in-app
+f522636b-e1c1-46f1-805f-03930088b279,Mr. Nelson Metz-Stoltenberg,+880327.626.9355 x1089,Rajshahi,pest_control|beauty,bn,high,certC,4.5,1152,4693,2025-10-10T19:19:56.068Z,call
+36c4ede4-1184-4438-9862-e61024af4ce6,Stacy Kuhlman,+880(556) 735-2911 x2964,Rajshahi,carpentry|cleaning|beauty,bn,medium,certA|certC,3.2,1693,1087,2025-10-05T19:19:56.068Z,in-app
+99603976-1581-4178-845c-d55df5c74a74,Sheldon Olson,+8801-923-874-8940 x5720,Chattogram,pest_control,en,high,,5.0,1064,1160,2025-10-10T19:19:56.068Z,in-app
+9f8c4b1e-34f2-449f-8b1b-6fa88ab12474,Allen Upton,+880399-990-5834,Chattogram,plumber,en,medium,certB,4.7,1776,1780,2025-11-01T19:19:56.068Z,in-app
+b8725f59-0169-452b-a2af-73d8eb692699,Dr. Brandon Cormier,+880464.346.7170,Khulna,plumber|cleaning,bn,low,certC|none,4.5,135,7137,2025-10-07T19:19:56.068Z,sms
+bbd45cc8-6f6c-464a-9cf2-e81c5d2b4407,Diane Schowalter IV,+8801-991-688-6448 x245,Rajshahi,electrician|cleaning,bn,high,certB|certA,3.3,1348,2862,2025-10-09T19:19:56.068Z,whatsapp
+8189740a-dbee-47b6-9e9c-09b40b56811f,Anita Keeling,+8801-764-885-1460 x097,Dhaka,plumber|electrician,bn,medium,certA|none,3.7,1041,2105,2025-10-08T19:19:56.068Z,whatsapp
+4919fbd7-55a8-471a-9b3c-e27e7d310f2d,Doreen Breitenberg PhD,+8801-749-242-7169,Chattogram,beauty|cleaning,bn,medium,none|certA,3.4,1088,917,2025-10-05T19:19:56.068Z,sms
+e52370cc-be87-4828-a8c5-19cf1b90b0cb,Tammy Tromp,+880200.635.5987 x800,Chattogram,beauty|pest_control,bn,high,,3.9,1990,3483,2025-10-22T19:19:56.068Z,in-app
+7b0dece1-71df-4484-867c-2230a37a7ec4,Gregg Schroeder,+880788.580.3017 x054,Dhaka,cleaning|ac_repair|carpentry,bn,high,,4.3,1942,2313,2025-10-25T19:19:56.068Z,sms
+c5d3d495-557d-4c74-add7-b525acd074a3,Randal Bogisich,+880(219) 540-5355 x9253,Chattogram,carpentry,en,medium,certB,3.8,485,3727,2025-11-01T19:19:56.068Z,whatsapp
+cdbac281-c8cc-4770-98a3-ff4b0a9d4eda,Dr. Orville Cartwright-Haley,+8801-376-678-8174 x3855,Rajshahi,plumber|ac_repair,bn,low,,3.4,477,5511,2025-10-13T19:19:56.068Z,whatsapp
+41662dd1-4bd1-4e0a-a0e5-a25bffcdf020,Lamar Shields MD,+8801-353-428-4529 x60299,Khulna,carpentry|ac_repair,bn,medium,certB|certC,3.2,1223,5737,2025-10-20T19:19:56.068Z,sms
+6f720c80-6ef0-410d-b113-eb9cbb19c903,Mike Champlin,+880581.403.2222 x354,Dhaka,plumber|pest_control,bn,low,,3.5,139,4468,2025-10-24T19:19:56.068Z,call
+b7894261-5881-4010-8663-361361da6231,Dorothy Willms,+880460-963-7038 x26337,Rajshahi,electrician,bn,medium,none,4.5,810,1155,2025-10-27T19:19:56.068Z,in-app
+e98b225f-ea68-44a6-b139-b1cdba3e42a5,Christie Larkin-Leannon,+880(404) 922-7748 x13432,Chattogram,carpentry,bn,medium,,3.9,1873,4703,2025-10-11T19:19:56.068Z,whatsapp
+117bcbe0-da2a-4853-b731-d957d56c3a68,Ross Fahey,+880690.427.4073 x2199,Dhaka,carpentry,bn,medium,certC,4.9,1450,1594,2025-10-11T19:19:56.068Z,whatsapp
+88c0da02-0c20-4287-b3fd-578c686c8d0e,Cecil Wuckert I,+8801-321-252-9539 x614,Chattogram,pest_control|beauty|carpentry,bn,medium,,4.8,1345,3859,2025-10-16T19:19:56.068Z,whatsapp
+8b877ccc-39c8-4cd2-a494-f35f375c42e5,Colleen Bednar,+880660-718-5723 x89271,Chattogram,plumber|electrician|ac_repair,en,medium,,3.7,34,2534,2025-10-06T19:19:56.068Z,in-app
+1af79e6a-7f8e-48a6-8ea0-0a1b58236a24,Marcos West,+8801-616-335-1038 x01839,Chattogram,carpentry|plumber|electrician,bn,high,certC|certA,3.9,906,4302,2025-10-25T19:19:56.068Z,sms
+482a3201-3350-4e1b-b881-3c7786cb5c8a,Dr. Olive Kautzer,+880(215) 429-3550 x6530,Chattogram,pest_control|ac_repair|electrician,bn,high,certC|none,4.0,952,6123,2025-10-23T19:19:56.068Z,whatsapp
+5b1cd113-587d-42b8-9b57-01571df90b3b,Emma Rippin,+880264-977-1250 x870,Rajshahi,plumber,en,medium,certC|certA,3.4,1982,6277,2025-10-11T19:19:56.068Z,sms
+3176a28b-4c62-4342-b9fe-5df4efc695f1,Angelina Stroman,+880895.989.2585 x89831,Chattogram,electrician|plumber,bn,high,,3.1,1104,2020,2025-10-26T19:19:56.068Z,whatsapp
+90f1fcd2-ad88-4262-bfa0-7a1a26a56d4a,Dr. Angie Lubowitz,+880(288) 663-2469 x84714,Chattogram,pest_control|plumber|beauty,bn,low,certA|certB,4.5,835,5546,2025-10-11T19:19:56.068Z,sms
+ddaf0e23-d664-4313-89bb-5e51f8f6c1d2,Ms. Lee Willms,+880989-922-6127 x66964,Chattogram,plumber|electrician,en,high,none|certC,3.5,1155,1097,2025-10-06T19:19:56.068Z,in-app
+23d1e545-6897-4746-b792-ca47f0c89a73,Dr. Kelvin Kutch,+880(263) 705-8400 x60042,Dhaka,ac_repair|electrician,bn,low,,4.4,1171,2236,2025-10-15T19:19:56.068Z,call
+f81706e7-820f-4549-9b48-57280daf927a,Clark Vandervort,+880224-565-0109 x68516,Khulna,cleaning|beauty,bn,low,certB|certC,4.5,307,6695,2025-10-25T19:19:56.068Z,in-app
+d5d583b2-e570-4fd7-8ee8-3757e4dec89d,Jonathon Runolfsson,+8801-765-367-0386 x62674,Dhaka,cleaning,bn,low,certC,3.3,540,4733,2025-10-11T19:19:56.068Z,sms
