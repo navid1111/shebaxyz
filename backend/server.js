@@ -13,6 +13,10 @@ app.use(express.json());
 import authRoutes from "./modules/auth/auth.routes.js";
 app.use("/api/auth", authRoutes);
 
+// admin routes
+import adminRoutes from "./modules/admin/admin.routes.js";
+app.use("/api/admin", adminRoutes);
+
 
 
 // Sample route

@@ -21,6 +21,7 @@ const protect = async (req, res, next) => {
 
 const authorizeRoles = (...roles) => {
   return (req, res, next) => {
+    if (!req.user) return res.status(401).json({ message: "No authenticated user" });
     if (!roles.includes(req.user.role)) {
       return res.status(403).json({ message: "Access denied" });
     }
@@ -28,4 +29,16 @@ const authorizeRoles = (...roles) => {
   };
 };
 
-export { protect, authorizeRoles };
+// Require a single exact role
+const requireRole = (role) => {
+  return (req, res, next) => {
+    if (!req.user) return res.status(401).json({ message: "No authenticated user" });
+    if (req.user.role !== role) return res.status(403).json({ message: "Forbidden: insufficient role" });
+    next();
+  };
+};
+
+// Require any of the provided roles (alias for authorizeRoles)
+const requireAnyRole = (...roles) => authorizeRoles(...roles);
+
+export { protect, authorizeRoles, requireRole, requireAnyRole };
