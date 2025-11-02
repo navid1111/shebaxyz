@@ -6,6 +6,7 @@ const UserSchema = new mongoose.Schema(
     phone: {
       type: String,
       required: true,
+      unique: true,
       validate: {
         validator: function (v) {
           // Bangladeshi phone number: starts with +8801 or 01, then 9 digits
@@ -20,11 +21,13 @@ const UserSchema = new mongoose.Schema(
       unique: true,
       lowercase: true,
     },
+    is_active: { type: Boolean, default: true },
     password: { type: String, required: true },
     role: {
       type: String,
-      enum: ["Student", "Tutor"],
+      enum: [ "admin", "worker", "user"],
       required: true,
+      default: "user",
     },
   },
   { timestamps: true }
