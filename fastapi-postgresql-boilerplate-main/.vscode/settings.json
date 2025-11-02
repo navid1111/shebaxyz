@@ -1,0 +1,52 @@
+{
+    "python.formatting.provider": "black",
+    "python.formatting.blackArgs": [
+        "--line-length",
+        "120",
+        "--exclude",
+        "/*\\.json/"
+    ],
+    "editor.formatOnSave": true,
+    "editor.tabSize": 4,
+    "files.exclude": {
+        "**/__pycache__": true
+    },
+    "editor.defaultFormatter": "ms-python.black-formatter",
+    "editor.fontFamily": "Hack Nerd Font",
+    "go.lintOnSave": "file",
+    "python.linting.flake8Enabled": true,
+    "python.linting.pylintEnabled": false,
+    "python.linting.enabled": true,
+    "python.linting.flake8Args": [
+        "--max-line-length=120",
+        "--ignore=E402,F841,F401,E302,E305",
+    ],
+    "cSpell.words": [
+        "asgi",
+        "asyncpg",
+        "autoflush",
+        "fastapi",
+        "gensalt",
+        "httpx",
+        "isort",
+        "jsonable",
+        "modtime",
+        "nullable",
+        "onupdate",
+        "passlib",
+        "plpgsql",
+        "poolclass",
+        "postgresql",
+        "pydantic",
+        "pytest",
+        "pytestmark",
+        "redoc",
+        "RWAPI",
+        "rwmodel",
+        "sessionmaker",
+        "signin",
+        "sqlalchemy",
+        "starlette",
+        "uvicorn"
+    ],
+}
